@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project_09_05_stl.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Inspection.cpp
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\inspection.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+  MainSTL.cpp
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\mainstl.cpp(47): warning C4101: amountPoint: неиспользованная локальная переменная
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\mainstl.cpp(117): warning C4101: amountPoint: неиспользованная локальная переменная
+  ModuleTests.cpp
+  WorkPoint.cpp
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(51): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(90): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(88): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(233): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\downloads\documents (1)\documents\visual studio 2015\time\project_09_05\project_09_05_stl\workpoint.cpp(241): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Project_09_05_stl.vcxproj -> C:\Users\miken\Downloads\Documents (1)\Documents\Visual Studio 2015\Time\Project_09_05\Debug\EllipseSTL.exe
