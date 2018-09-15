@@ -1,0 +1,19 @@
+﻿  WorkPoint.cpp
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(139): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(140): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(157): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(211): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(126): warning C4101: indexYTwo: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(126): warning C4101: indexYOne: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(306): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(307): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(324): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(389): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(293): warning C4101: indexYTwo: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(293): warning C4101: indexYOne: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(468): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(655): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(682): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4_stl\workpoint.cpp(686): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_4_stl.vcxproj -> C:\Users\miken\Documents\Visual Studio 2015\Time\Cen9\Lab_4\Debug\Lab_4_stl.exe
+  Lab_4_stl.vcxproj -> C:\Users\miken\Documents\Visual Studio 2015\Time\Cen9\Lab_4\Debug\Lab_4_stl.pdb (Partial PDB)

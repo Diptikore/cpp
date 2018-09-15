@@ -1,0 +1,21 @@
+﻿  WorkPoint.cpp
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(53): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(107): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(22): warning C4101: indexYTwo: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(22): warning C4101: indexYOne: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(199): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(200): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(217): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(282): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(186): warning C4101: indexYTwo: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\workpoint.cpp(186): warning C4101: indexYOne: неиспользованная локальная переменная
+  Main.cpp
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\main.cpp(130): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\main.cpp(134): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\main.cpp(51): warning C4101: rectS: неиспользованная локальная переменная
+c:\users\miken\documents\visual studio 2015\time\cen9\lab_4\lab_4\main.cpp(116): warning C4101: rectS: неиспользованная локальная переменная
+  Создание кода...
+  Lab_4.vcxproj -> C:\Users\miken\Documents\Visual Studio 2015\Time\Cen9\Lab_4\Debug\Lab_4.exe
+  Lab_4.vcxproj -> C:\Users\miken\Documents\Visual Studio 2015\Time\Cen9\Lab_4\Debug\Lab_4.pdb (Partial PDB)
